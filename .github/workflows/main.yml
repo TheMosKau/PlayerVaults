@@ -26,4 +26,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: PlayerVaultX
-          path: target/PlayerVaultsX-4.3.0.jar
+          path: target/
